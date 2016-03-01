@@ -1,6 +1,6 @@
 Package.describe({
   name: 'shuttler:namespace',
-  version: '0.0.1',
+  version: '0.0.4',
   summary: 'Variable `Shuttler`.',
   git: 'https://github.com/meteor-shuttler/namespace',
   documentation: 'README.md'
