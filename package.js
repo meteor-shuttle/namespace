@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'shuttle:namespace',
-  version: '0.0.0',
-  summary: 'Variable `Shuttle`.',
-  git: 'https://github.com/meteor-shuttle/namespace',
+  name: 'shuttler:namespace',
+  version: '0.0.1',
+  summary: 'Variable `Shuttler`.',
+  git: 'https://github.com/meteor-shuttler/namespace',
   documentation: 'README.md'
 });
 
@@ -12,6 +12,6 @@ Package.onUse(function(api) {
   api.use('mongo');
   api.use('ecmascript');
   
-  api.addFiles('shuttle.js');
-  api.export('Shuttle');
+  api.addFiles('shuttler.js');
+  api.export('Shuttler');
 });

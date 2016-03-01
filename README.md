@@ -1,6 +1,6 @@
 # Namespace
 
-There is no logic, just variable `Shuttle`.
+There is no logic, just variable `Shuttler`.
 
 ## For what?
 
