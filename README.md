@@ -1,7 +1,7 @@
-# Namespace
+# Collection
 
-There is no logic, just variable `Shuttler`.
+There is no logic, just variable and template-helper `Shuttler`.
 
-## For what?
+## Usage
 
-Packages can use this variable as a namespace.
+`Shuttler` variable in scripts and templates.
